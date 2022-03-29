@@ -1,7 +1,7 @@
 # todo
 Todo® is a cross-platform operations management application written from
 the ground up to provide a specifically-catered suite of workload
-management tools to help you deliver your projects on time and under budget.
+scheduling tools to aid in delivering your projects on time and under budget.
 
 Our UX engineers pioneered the TodoDashboard® - A modern reimagination
 of the Kanban board designed to seamlessly integrate into your existing
